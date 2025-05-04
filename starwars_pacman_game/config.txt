@@ -1,0 +1,15 @@
+Character:Darthvader,Door:B
+Character:Stormtrooper,Door:C
+Character:Stormtrooper,Door:D
+Character:Stormtrooper,Door:E
+0	0	0	0	1	0	0	0	0	0	0	0	1	0
+0	1	1	1	1	0	1	1	1	1	1	1	1	0
+0	1	0	1	1	1	1	0	1	0	0	0	1	0
+0	1	0	1	1	0	1	0	1	1	0	1	1	0
+0	1	0	1	0	0	1	0	1	1	0	1	1	0
+1	1	0	1	1	1	1	0	1	0	0	0	1	1
+0	1	0	0	1	0	1	0	1	0	1	1	1	0
+0	1	0	1	1	1	1	1	1	0	0	0	1	0
+0	1	0	1	0	0	0	0	1	0	0	1	1	0
+0	1	1	1	1	1	1	1	1	1	1	1	1	1
+0	0	0	0	1	0	0	0	0	0	0	0	0	0
